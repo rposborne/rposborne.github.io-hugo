@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:rposborne/rposborne.github.io.git
+	branch = master
+[submodule "themes/hucore"]
+	path = themes/hucore
+	url = https://github.com/mgjohansen/hucore.git
