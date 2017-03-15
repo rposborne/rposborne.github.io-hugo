@@ -4,7 +4,7 @@ title = "Russell Osborne"
 theme = "Hucore"
 copyright = "&copy; 2017 | Follow on <a href=\"https://twitter.com/rposborne\" target=\"_blank\">Twitter</a> | <a href=\"http://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
 disqusShortname = "rposborne"
-publishDir = "docs"
+publishDir = "public"
 
 [taxonomies]
 tag = "tags"
