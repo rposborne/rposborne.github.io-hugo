@@ -11,8 +11,8 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "Place labels here."
-keywords = ["keyword 1", "keyword 2", "keyword 3"]
+description = "I help people tell computers to do things."
+keywords = ["empathic", "technical", "leader"]
 author = "Russell Osborne"
 sharingicons = true
 
@@ -29,7 +29,7 @@ url = "https://twitter.com/rposborne"
 fa_icon = "fa-twitter"
 
 [[params.social]]
-url = "https://linkedin.com/in/rposborne"
+url = "https://www.linkedin.com/in/rocketosborne/"
 fa_icon = "fa-linkedin-square"
 
 [[params.social]]
@@ -37,5 +37,5 @@ url = "/index.xml"
 fa_icon = "fa-rss"
 
 [[params.socialshare]]
-url = "https://linkedin.com/in/rposborne"
+url = "https://www.linkedin.com/in/rocketosborne/"
 fa_icon = "fa-linkedin-square"
