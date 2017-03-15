@@ -3,7 +3,6 @@ description = ""
 date = "2016-11-12T09:52:03-04:00"
 title = "Historical data from Papertrail logs"
 author = ""
-draft = true
 tags = ["ruby","paper_trail"]
 categories = ["code"]
 
