@@ -1,9 +1,19 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+red=$'\e[1;31m'
+grn=$'\e[1;32m'
+end=$'\e[0m'
+echo -e "${grn}Deploying updates to GitHub...${end}"
 
 # Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
+
+git diff --no-ext-diff --quiet --exit-code >/dev/null 2>&1; ec=$?;
+
+if test "$ec" = 1; then
+    echo -e "${red}Uncommitted changes. please commit to deploy${end}"
+    exit 1;
+fi
 
 # Go To Public folder
 cd public
