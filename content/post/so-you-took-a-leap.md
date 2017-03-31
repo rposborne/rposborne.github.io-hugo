@@ -1,7 +1,7 @@
 +++
 date = "2017-03-31T10:41:56-04:00"
-title = "What happens after a code bootcamp."
-tags = ["ruby", "learning]
+title = "What happens after a code bootcamp"
+tags = ["ruby", "learning"]
 categories = ["code"]
 description = ""
 author = ""
@@ -10,7 +10,7 @@ author = ""
 
 Choosing to take a boot camp was stressful, actually taking the class was stressful, and now it's over, it's time to take a deep breath and reinforce the knowledge that you gained.  When students graduate it can be very difficult to determine was is the next step, this is due to the direct mentorship and high intensity most boot camps have through there short classes and then 
 
-## self-assesment
+## Self Assesment
 After graduation and a short mental break it is time to reflect on where you are as a learner, this needs to be an honest assessment of your skills.
 
 ### Questions to ask yourself
